@@ -2,8 +2,9 @@
 
 // first problem
 var numberDialed = function(phoneNumber){
-	if (numberDialed.length = '000-000-0000'){
-		console.log(phoneNumber + ' ' + true)
+	var pattern = numberDialed.length 
+	if (pattern[3,7] = "-"){
+		console.log(phoneNumber + " " + true)
 	} else {
 		console.log(phoneNumber + ' ' + false)
 	};
@@ -11,18 +12,12 @@ var numberDialed = function(phoneNumber){
 
 
 //second problem
-var emailTyped = function(email){
-	if (emailTyped.charAt()){
-		console.log(email + true)
-	} else {
-		console.log(email + false)
-	};
-};
+
 
 //third problem
 
 
 //main
-numberDialed('641-530-346')
+numberDialed('641-530-3461')
 
-emailTyped('weaver@msn.com')
+//emailTyped('weaver@msn.com')
