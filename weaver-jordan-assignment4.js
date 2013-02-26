@@ -2,7 +2,7 @@
 
 // first problem
 var numberDialed = function(phoneNumber){
-	if (outcome = phoneNumber > 100 + '-' + 000 + '-' + 0000){
+	if (numberDialed.length = '000-000-0000'){
 		console.log(phoneNumber + ' ' + true)
 	} else {
 		console.log(phoneNumber + ' ' + false)
@@ -12,14 +12,17 @@ var numberDialed = function(phoneNumber){
 
 //second problem
 var emailTyped = function(email){
-	if (xxx+ "@"+bbb+"."+ccc === true){
+	if (emailTyped.charAt()){
 		console.log(email + true)
 	} else {
 		console.log(email + false)
 	};
 };
 
+//third problem
+
+
 //main
-numberDialed('641-530-3461')
+numberDialed('641-530-346')
 
 emailTyped('weaver@msn.com')
